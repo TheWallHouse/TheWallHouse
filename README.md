@@ -61,7 +61,10 @@ I'm a huge fan of "**clean code**" that doesn't make me cringe when I look at it
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"
       alt="c++"/>
   </a>
-
+  <a href="https://www.w3schools.com/bash/bash_script.php#:~:text=Bash%20scripts%20are%20files%20containing,make%20your%20work%20more%20efficient." target="_blank">
+    <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"
+      alt="bashScript"/>
+  </a>
 
   
 
