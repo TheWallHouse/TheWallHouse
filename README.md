@@ -1,5 +1,6 @@
 <h1 align="center">Hi there, I'm TheWallHa  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
 
+---
 <img width="1080" height="720" alt="Poster" src="https://github.com/user-attachments/assets/59c73a11-1fb4-4478-b3ab-747c6391ddc8" />
 
 ---
