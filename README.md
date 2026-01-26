@@ -2,11 +2,10 @@
 
 <img width="1080" height="720" alt="Poster" src="https://github.com/user-attachments/assets/59c73a11-1fb4-4478-b3ab-747c6391ddc8" />
 
-<img align="right" width=300px alt="Unicorn" src="https://media.tenor.com/_mYZWyrW3AUAAAAi/peach-goma-pc-night-keyboard-smashing.gif" />
-
 ---
 <div align="left">
   <img align="right" width=300px alt="Unicorn" src="https://media.tenor.com/_mYZWyrW3AUAAAAi/peach-goma-pc-night-keyboard-smashing.gif" />
+  
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
