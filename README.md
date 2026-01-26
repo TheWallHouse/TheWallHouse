@@ -14,21 +14,16 @@
   
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-Qué pasa, </Coders>! 👋 Soy **TheWallHa** (o House, como prefieras 😏)
+What's up, Coders! 👋 I'm TheWallHa (or House, whichever you prefer 😏)
 
-Técnico Superior en **Administración de Sistemas Informáticos en Red (ASIR)** 💻🛡️
+Senior Technician in Networked Computer Systems Administration (ASIR) 💻🛡️
 
-- Aprendo rápido y toco de **todo un poco**… pero experto en **nada ¡todavía!** 😎  
-- Cada día aprendo algo nuevo y el proceso me flipa.  
+- I'm a quick learner and dabble in **a little bit of everything**... but I'm not an expert in **anything yet!** 🤓
+- I learn something new every day, and I love the process.
 
-Me mola **romper código** (o configs), arreglarlo mal de primeras y luego arreglarlo bien de verdad 😂  
-(Creo que vamos todos en ese barco, ¿no?)  
+I enjoy **breaking code** (or configurations), fixing it badly at first, and then fixing it properly (I think we're all in the same boat, right? 😂)
 
-Fan absoluto de **clean code** que no me dé cringe cuando lo miro al día siguiente.  
-Y de apagar fuegos a las 3 de la mañana con un café frío ☕🔥
-
-
-- 📫 Reach out to me at: <a href="v@stud.ac">rrhh@vdev.com</a>
+I'm a huge fan of "**clean code**" that doesn't make me cringe when I look at it the next day, and of putting out fires at 3 a.m. with a hot Choco Milk ☕🔥
 
 </div>
 
