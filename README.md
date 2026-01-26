@@ -1,4 +1,5 @@
-## Hi there, I'm TheWallHa👋
+<h1 align="center">Hi there, I'm TheWallHa👋</h1>
+
 
 <img width="1920" height="1080" alt="Fondo video" src="https://github.com/user-attachments/assets/9faf76f2-d620-4ab1-95eb-432ca4e8074a" />
 
