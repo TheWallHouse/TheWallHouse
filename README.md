@@ -14,14 +14,19 @@
   
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-Descripcion toa wappa de cosas que hice o algo asi
-.
-.
-.
-.
-.
-.
-.
+Qué pasa, </Coders>! 👋 Soy **TheWallHa** (o House, como prefieras 😏)
+
+Técnico Superior en **Administración de Sistemas Informáticos en Red (ASIR)** 💻🛡️
+
+- Aprendo rápido y toco de **todo un poco**… pero experto en **nada ¡todavía!** 😎  
+- Cada día aprendo algo nuevo y el proceso me flipa.  
+
+Me mola **romper código** (o configs), arreglarlo mal de primeras y luego arreglarlo bien de verdad 😂  
+(Creo que vamos todos en ese barco, ¿no?)  
+
+Fan absoluto de **clean code** que no me dé cringe cuando lo miro al día siguiente.  
+Y de apagar fuegos a las 3 de la mañana con un café frío ☕🔥
+
 
 - 📫 Reach out to me at: <a href="v@stud.ac">rrhh@vdev.com</a>
 
