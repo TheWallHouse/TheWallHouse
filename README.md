@@ -31,7 +31,7 @@ I'm a huge fan of "**clean code**" that doesn't make me cringe when I look at it
   
   <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>  Tech Stack 
 
-  <h3 align="center">Languages</h3>
+  <h3 align="center"> Languages </h3>
 
   <a href="https://www.html6.es/index.html#" target="_blank"> 
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
@@ -73,20 +73,80 @@ I'm a huge fan of "**clean code**" that doesn't make me cringe when I look at it
     <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white"
       alt="windowsTerminal"/>
   </a>
+  <a href="https://www.w3schools.com/xml/" target="_blank">
+    <img src="https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff"
+      alt="xml"/>
+  </a>
+
+  <h3 align="center"> ☁️ Hosting/SaaS </h3>
+  
+  <a href="https://learn.microsoft.com/en-us/training/azure/" target="_blank">
+    <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"
+      alt="azure"/>
+  </a>
+  <a href="https://www.cloudflare.com/developer-platform/solutions/hosting/" target="_blank">
+    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"
+      alt="cloudflare"/>
+  </a>
+    <a href="https://www.hostinger.com/tutorials/" target="_blank">
+    <img src="https://img.shields.io/badge/hostinger-%23673DE6.svg?style=for-the-badge&logo=hostinger&logoColor=white"
+      alt="hostinger"/>
+  </a>
+    <a href="https://www.ovhcloud.com/en/learn/" target="_blank">
+    <img src="https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D"
+      alt="ovh"/>
+  </a>
+    <a href="https://www.proxmox.com/en/services/training-courses/training" target="_blank">
+    <img src="https://img.shields.io/badge/proxmox-proxmox?style=for-the-badge&logo=proxmox&logoColor=%23E57000&labelColor=%232b2a33&color=%232b2a33"
+      alt="proxmox"/>
+  </a>
+    <a href="https://vercel.com/docs" target="_blank">
+    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="vercel"/>
+    </a>
+    <a href="https://docs.aws.amazon.com/" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
+      alt="aws"/>
+    </a>
+
+  <h3 align="center"> 💾 Databases </h3>
+  
+  <a href="https://mariadb.com/docs" target="_blank">
+    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"
+      alt="mariaDB"/>
+  </a>
+  <a href="https://www.mongodb.com/docs/" target="_blank">
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"
+      alt="mongoDB"/>
+  </a>
+  <a href="https://dev.mysql.com/doc/" target="_blank">
+    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"
+      alt="mySQL"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver17" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"
+      alt="microsoftSQLServer"/>
+  </a>
+  <a href="https://www.sqlite.org/docs.html" target="_blank">
+    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"
+      alt="sQLite"/>
+  </a>
+  
+  <h3 align="center"> 🤖 IA </h3>
+  ChatGPT
+Claude
+Google Gemini
+Ollama
+  
+  <h3 align="center"> 📑 Documentation Platforms </h3>
+Confluence
 
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D)
-![Proxmox](https://img.shields.io/badge/proxmox-proxmox?style=for-the-badge&logo=proxmox&logoColor=%23E57000&labelColor=%232b2a33&color=%232b2a33)
 ![VirtualBox](https://img.shields.io/badge/virtualbox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
-
-
 ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
