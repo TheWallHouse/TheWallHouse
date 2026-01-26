@@ -2,7 +2,7 @@
 
 <img width="1920" height="1080" alt="Poster" src="https://github.com/user-attachments/assets/9faf76f2-d620-4ab1-95eb-432ca4e8074a" />
 
-<img align="right" width=300px alt="Unicorn" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2NmcTRjM2Vsbnc3ZXk1dzNjcjg3ZTZkY3FqaWI5bXZ6Njh1eXYxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" />
+<img align="right" width=300px alt="Unicorn" src="https://media.tenor.com/_mYZWyrW3AUAAAAi/peach-goma-pc-night-keyboard-smashing.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
