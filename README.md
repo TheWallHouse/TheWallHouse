@@ -15,6 +15,14 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 Descripcion toa wappa de cosas que hice o algo asi
+.
+.
+.
+.
+.
+.
+.
+
 - 📫 Reach out to me at: <a href="v@stud.ac">rrhh@vdev.com</a>
 
 </div>
