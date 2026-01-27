@@ -242,7 +242,10 @@ I'm a huge fan of "**clean code**" that doesn't make me cringe when I look at it
     <img src="https://img.shields.io/static/v1?label=&message=wireshark&color=blue&style=for-the-badge&logo=wireshark&logoColor=white"
       alt="Wireshark"/>
   </a>
-
+  <a href="https://www.virustotal.com/gui/home/upload" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=virustotal&color=%23394EFF&style=for-the-badge&logo=virustotal"
+      alt="VirusTotal"/>
+  </a>
 
   
   <h3 align="center"> 🖥️ Operating Systems </h3>
