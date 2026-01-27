@@ -74,7 +74,7 @@ I'm a huge fan of "**clean code**" that doesn't make me cringe when I look at it
       alt="windowsTerminal"/>
   </a>
   <a href="https://www.w3schools.com/xml/" target="_blank">
-    <img src="https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff"
+    <img src="https://img.shields.io/static/v1?label=&message=xml&color=violet&style=for-the-badge&logo=xml&logoColor=black"
       alt="xml"/>
   </a>
 
@@ -234,8 +234,26 @@ I'm a huge fan of "**clean code**" that doesn't make me cringe when I look at it
 
   <h3 align="center"> 🖥️ Operating Systems </h3>
   
-
-
+  <a href="https://www.android.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"
+      alt="Android"/>
+  </a>
+  <a href="https://www.parrotsec.org/" target="_blank">
+    <img src="https://img.shields.io/badge/parrot_security-%23000000.svg?style=for-the-badge&logo=parrotsecurity&logoColor=#15E0ED"
+      alt="ParrotSecurity"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/software-download/windows11" target="_blank">
+    <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white"
+      alt="Windows11	"/>
+  </a>
+  <a href="https://www.debian.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"
+      alt="Debian"/>
+  </a>
+  <a href="https://neon.kde.org/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=kdeneon&color=%233DC08D&style=for-the-badge&logo=kdeneon&logoColor=white"
+      alt="KDENeon"/>
+  </a>
 
 
   
