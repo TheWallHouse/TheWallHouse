@@ -215,7 +215,10 @@ I'm a huge fan of "**clean code**" that doesn't make me cringe when I look at it
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"
       alt="YouTube"/>
   </a>
-
+  <a href="https://www.reddit.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"
+      alt="Reddit"/>
+  </a>
   <a href="https://github.com/" target="_blank">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub"/>
@@ -255,12 +258,87 @@ I'm a huge fan of "**clean code**" that doesn't make me cringe when I look at it
       alt="KDENeon"/>
   </a>
 
+  <h3 align="center"> 🛠️ Other tools  </h3>
+
+  <a href="" target="_blank">
+    <img src=""
+      alt=""/>
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"
+      alt="RaspberryPi"/>
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white"
+      alt="Plex"/>
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"
+      alt="Docker"/>
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/virtualbox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white"
+      alt="VirtualBox"/>
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white"
+      alt="Wireguard"/>
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"
+      alt="Jira"/>
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"
+      alt="RaspberryPi"/>
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white"
+      alt="TOR"/>
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white"
+      alt="DuckDuckGo"/>
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white"
+      alt="Brave"/>
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"
+      alt="Apache"/>
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"
+      alt="Nginx"/>
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/F_Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white"
+      alt="F-Droid"/>
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"
+      alt="Postman"/>
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=QNAP&color=blue&style=for-the-badge&logo=qnap&logoColor=white"
+      alt="QNAP"/>
+  </a>
+  <a href="" target="_blank">
+    <img src=""
+      alt=""/>
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=wireshark&color=blue&style=for-the-badge&logo=wireshark&logoColor=white"
+      alt="Wireshark"/>
+  </a>
+  <a href="" target="_blank">
+    <img src=""
+      alt=""/>
+  </a>
+
 
   
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/virtualbox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
-![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
-
 </div>
 
   ---
