@@ -133,10 +133,23 @@ I'm a huge fan of "**clean code**" that doesn't make me cringe when I look at it
   </a>
   
   <h3 align="center"> 🤖 IA </h3>
-  ChatGPT
-Claude
-Google Gemini
-Ollama
+  
+  <a href="https://chatgpt.com/" target="_blank">
+    <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"
+      alt="ChatGPT"/>
+  </a>
+  <a href="https://claude.ai/login" target="_blank">
+    <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"
+      alt="Claude"/>
+  </a>
+  <a href="https://gemini.google.com/app" target="_blank">
+    <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white"
+      alt="GoogleGemini"/>
+  </a>
+  <a href="https://ollama.com/" target="_blank">
+    <img src="https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white"
+      alt="Ollama"/>
+  </a>
   
   <h3 align="center"> 📑 Documentation Platforms </h3>
 Confluence
