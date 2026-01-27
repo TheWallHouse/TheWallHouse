@@ -158,7 +158,7 @@ I'm a huge fan of "**clean code**" that doesn't make me cringe when I look at it
       alt="Confluence"/>
   </a>
 
-  <h3 align="center"> 🎨 Design </h3>
+  <h3 align="center"> 🎨 Design tools</h3>
 
   <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank">
     <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"
@@ -220,42 +220,26 @@ I'm a huge fan of "**clean code**" that doesn't make me cringe when I look at it
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub"/>
   </a>
-
-  <a href="" target="_blank">
-    <img src=""
-      alt=""/>
-  </a>
-
+  
   <h3 align="center"> 🛡️ Cybersecurity </h3>
-
-  <a href="" target="_blank">
-    <img width="512" height="512" src="https://assets.sophos.com/X24WTUEQ/at/cgwpbfck63x7s6xnn84ck/Logo-Graphic-Logo-Tagline.svg"
-      alt="Sophos"/>
-  </a>
-  <a href="" target="_blank">
-    <img width="512" height="512" src="https://github.com/user-attachments/assets/b7b1370c-9e06-4589-9cfd-05f4caf9fa55"
+  
+  <a href="https://www.fortinet.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=Fortinet&color=white&style=for-the-badge&logo=Fortinet&logoColor=red"
       alt="Fortinet"/>
   </a>
+  <a href="https://www.sophos.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=Sophos&color=blue&style=for-the-badge&logo=Sphere+Online+Judge&logoColor=white"
+      alt="Sophos"/>
+  </a>
+
+  
+  <h3 align="center"> 🛡️ Cybersecurity </h3>
+  
 
 
-<table align="center" border="0" cellpadding="20">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://www.sophos.com" target="_blank">
-        <img src="https://assets.sophos.com/X24WTUEQ/at/cgwpbfck63x7s6xnn84ck/Logo-Graphic-Logo-Tagline.svg"
-             alt="Sophos"
-             style="max-height: 80px; max-width: 100%; height: auto; width: auto; display: block; margin: 0 auto;">
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://www.fortinet.com" target="_blank">
-        <img src="https://github.com/user-attachments/assets/b7b1370c-9e06-4589-9cfd-05f4caf9fa55"
-             alt="Fortinet"
-             style="max-height: 80px; max-width: 100%; height: auto; width: auto; display: block; margin: 0 auto;">
-      </a>
-    </td>
-  </tr>
-</table>
+
+ Operating Systems
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Operating Systems
 
 
 
