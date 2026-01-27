@@ -313,6 +313,10 @@ I'm a huge fan of "**clean code**" that doesn't make me cringe when I look at it
     <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white"
       alt="Brave"/>
   </a>
+  <a href="https://librewolf.net/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=librewolf&color=white&style=for-the-badge&logo=librewolf&logoColor=%2300ACFF"
+      alt="Librewolf"/>
+  </a>
   <a href="https://httpd.apache.org/" target="_blank">
     <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"
       alt="Apache"/>
@@ -349,7 +353,15 @@ I'm a huge fan of "**clean code**" that doesn't make me cringe when I look at it
     <img src=""
       alt=""/>
   </a>
-  
+  <a href="" target="_blank">
+    <img src=""
+      alt=""/>
+  </a>
+  <a href="" target="_blank">
+    <img src=""
+      alt=""/>
+  </a>
+  https://img.shields.io/static/v1?label=&message=librewolf&color=white&style=for-the-badge&logo=librewolf&logoColor=%2300ACFF
 </div>
 
   ---
