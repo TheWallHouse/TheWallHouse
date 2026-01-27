@@ -274,63 +274,59 @@ I'm a huge fan of "**clean code**" that doesn't make me cringe when I look at it
     <img src=""
       alt=""/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://www.raspberrypi.com/" target="_blank">
     <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"
       alt="RaspberryPi"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://www.plex.tv/es/" target="_blank">
     <img src="https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white"
       alt="Plex"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://docs.docker.com/" target="_blank">
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"
       alt="Docker"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://www.virtualbox.org/" target="_blank">
     <img src="https://img.shields.io/badge/virtualbox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white"
       alt="VirtualBox"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://www.wireguard.com/quickstart/" target="_blank">
     <img src="https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white"
       alt="Wireguard"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://www.atlassian.com/software/jira" target="_blank">
     <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"
       alt="Jira"/>
   </a>
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"
-      alt="RaspberryPi"/>
-  </a>
-  <a href="" target="_blank">
+  <a href="https://www.torproject.org/" target="_blank">
     <img src="https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white"
       alt="TOR"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://duckduckgo.com/" target="_blank">
     <img src="https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white"
       alt="DuckDuckGo"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://brave.com/download/" target="_blank">
     <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white"
       alt="Brave"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://httpd.apache.org/" target="_blank">
     <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"
       alt="Apache"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://nginx.org/" target="_blank">
     <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"
       alt="Nginx"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://f-droid.org/es/" target="_blank">
     <img src="https://img.shields.io/badge/F_Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white"
       alt="F-Droid"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://learning.postman.com/docs/introduction/overview/" target="_blank">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"
       alt="Postman"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://www.qnap.com/en/operating-system" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=QNAP&color=blue&style=for-the-badge&logo=qnap&logoColor=white"
       alt="QNAP"/>
   </a>
@@ -338,15 +334,18 @@ I'm a huge fan of "**clean code**" that doesn't make me cringe when I look at it
     <img src="https://img.shields.io/static/v1?label=&message=xampp&color=white&style=for-the-badge&logo=xampp&logoColor=%23FB7A24"
       alt="xampp"/>
   </a>
-  <a href="" target="_blank">
-    <img src=""
-      alt=""/>
+  <a href="https://www.microsoft.com/en-us/download/details.aspx?id=49117" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"
+      alt="MicrosoftOffice"/>
+  </a>
+  <a href="https://jellyfin.org/" target="_blank">
+    <img src="https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC"
+      alt="Jellyfin"/>
   </a>
   <a href="" target="_blank">
     <img src=""
       alt=""/>
   </a>
-
   
 </div>
 
