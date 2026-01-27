@@ -232,14 +232,9 @@ I'm a huge fan of "**clean code**" that doesn't make me cringe when I look at it
       alt="Sophos"/>
   </a>
 
+  <h3 align="center"> 🖥️ Operating Systems </h3>
   
-  <h3 align="center"> 🛡️ Cybersecurity </h3>
-  
 
-
-
- Operating Systems
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Operating Systems
 
 
 
