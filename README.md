@@ -234,7 +234,17 @@ I'm a huge fan of "**clean code**" that doesn't make me cringe when I look at it
     <img src="https://img.shields.io/static/v1?label=&message=Sophos&color=blue&style=for-the-badge&logo=Sphere+Online+Judge&logoColor=white"
       alt="Sophos"/>
   </a>
+  <a href="https://www.metasploit.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=metasploit&color=white&style=for-the-badge&logo=metasploit"
+      alt="metasploit"/>
+  </a>
+  <a href="https://www.wireshark.org/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=wireshark&color=blue&style=for-the-badge&logo=wireshark&logoColor=white"
+      alt="Wireshark"/>
+  </a>
 
+
+  
   <h3 align="center"> 🖥️ Operating Systems </h3>
   
   <a href="https://www.android.com/" target="_blank">
@@ -324,19 +334,18 @@ I'm a huge fan of "**clean code**" that doesn't make me cringe when I look at it
     <img src="https://img.shields.io/static/v1?label=&message=QNAP&color=blue&style=for-the-badge&logo=qnap&logoColor=white"
       alt="QNAP"/>
   </a>
-  <a href="" target="_blank">
-    <img src=""
-      alt=""/>
-  </a>
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=wireshark&color=blue&style=for-the-badge&logo=wireshark&logoColor=white"
-      alt="Wireshark"/>
+  <a href="https://www.apachefriends.org" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=xampp&color=white&style=for-the-badge&logo=xampp&logoColor=%23FB7A24"
+      alt="xampp"/>
   </a>
   <a href="" target="_blank">
     <img src=""
       alt=""/>
   </a>
-
+  <a href="" target="_blank">
+    <img src=""
+      alt=""/>
+  </a>
 
   
 </div>
