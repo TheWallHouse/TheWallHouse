@@ -216,6 +216,11 @@ I'm a huge fan of "**clean code**" that doesn't make me cringe when I look at it
       alt="YouTube"/>
   </a>
 
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"/>
+  </a>
+
   <a href="" target="_blank">
     <img src=""
       alt=""/>
