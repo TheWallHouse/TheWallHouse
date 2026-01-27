@@ -153,47 +153,76 @@ I'm a huge fan of "**clean code**" that doesn't make me cringe when I look at it
   
   <h3 align="center"> 📑 Documentation Platforms </h3>
 
-  <a href="" target="_blank">
-    <img src=""
+  <a href="https://www.atlassian.com/es/software/confluence" target="_blank">
+    <img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white"
       alt="Confluence"/>
   </a>
 
   <h3 align="center"> 🎨 Design </h3>
 
-  <a href="" target="_blank">
+  <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank">
     <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"
       alt="AdobeLightroom"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
     <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"
       alt="AdobeIllustrator"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
     <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"
       alt="AdobePhotoshop"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://www.canva.com/" target="_blank">
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"
       alt="Canva"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank">
     <img src="https://img.shields.io/badge/davinci_resolve-%23233A51.svg?style=for-the-badge&logo=davinciresolve&logoColor=white"
       alt="DaVinciResolve"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://www.gimp.org/" target="_blank">
     <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF"
       alt="Gimp"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://krita.org" target="_blank">
     <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B"
       alt="Krita"/>
   </a>
+
+  <h3 align="center"> 🎓 Education </h3>
+
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white"
+      alt="Coursera"/>
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white"
+      alt="MicrosoftLearn"/>
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"
+      alt="Udemy"/>
+  </a>
+  <a href="https://www.w3schools.com/" target="_blank">
+    <img src="https://img.shields.io/badge/W3%20Schools-04AA6D?style=for-the-badge&logo=w3schools&logoColor=white"
+      alt="W3Schools"/>
+  </a>
+  <a href="https://www.codecademy.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A"
+      alt="Codecademy"/>
+  </a>
+
+
+  <a href="" target="_blank">
+    <img src=""
+      alt=""/>
+  </a>
+
+
   
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/virtualbox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
-
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 
 </div>
 
