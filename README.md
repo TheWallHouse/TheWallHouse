@@ -356,6 +356,7 @@ I'm a huge fan of "**clean code**" that doesn't make me cringe when I look at it
 <div align="center">
   
   <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="30px">&nbsp;***Socials*** 
-    <p> I'm antisocial <img src = https://media.tenor.com/vsHqElNJJygAAAAi/pgsr-emoji-iphone-meu.gif width = 32px> </p>
-    
+
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=29&pause=1000&color=F7F7F7&background=11FF0F00&center=true&vCenter=true&width=449&height=62&lines=I'm+antisocial+%F0%9F%98%90" alt="Typing SVG" /></a>
+
 </div>
