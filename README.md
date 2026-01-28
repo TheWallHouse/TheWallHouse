@@ -373,9 +373,8 @@ I'm a huge fan of "**clean code**" that doesn't make me cringe when I look at it
 
 </div>
 
-
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=j7env2evm6wiwy96zo8g0gkly&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=j7env2evm6wiwy96zo8g0gkly&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=true&bar_color=4baa6f&bar_color_cover=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=j7env2evm6wiwy96zo8g0gkly&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true&mode=dark">
   </a>
 </p>
