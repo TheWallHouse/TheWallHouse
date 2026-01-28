@@ -372,3 +372,10 @@ I'm a huge fan of "**clean code**" that doesn't make me cringe when I look at it
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=29&pause=1000&color=F7F7F7&background=11FF0F00&center=true&vCenter=true&width=449&height=62&lines=I'm+antisocial+%F0%9F%98%90" alt="Typing SVG" /></a>
 
 </div>
+
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=j7env2evm6wiwy96zo8g0gkly&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=j7env2evm6wiwy96zo8g0gkly&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color_cover=true">
+  </a>
+</p>
