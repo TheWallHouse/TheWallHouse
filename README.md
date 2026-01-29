@@ -376,7 +376,8 @@ I'm a huge fan of "**clean code**" that doesn't make me cringe when I look at it
   ---
 
 <div align="center">
-  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>  Hobbies
+  
+  <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHNvd3dqMHptOXBoazJ3dnhnbzFhZ2lnbHNxMnhqdTR3ZmU2ZzhubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/a7YBatpbXSzxbrSkvM/giphy.gif" width = 50px>&nbsp;***Hobbies***
 <p align="center">
   <!-- Recently Played by JeffreyCA -->
   <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=j7env2evm6wiwy96zo8g0gkly&unique={true|1|on|yes}" alt="Spotify Now Playing">
