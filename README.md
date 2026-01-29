@@ -373,8 +373,19 @@ I'm a huge fan of "**clean code**" that doesn't make me cringe when I look at it
 
 </div>
 
+  ---
+
+<div align="center">
+  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>  Hobbies
 <p align="center">
+  <!-- Recently Played by JeffreyCA -->
+  <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=j7env2evm6wiwy96zo8g0gkly&unique={true|1|on|yes}" alt="Spotify Now Playing">
+  <!-- Spotify Live by Kittinan -->
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=j7env2evm6wiwy96zo8g0gkly&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=j7env2evm6wiwy96zo8g0gkly&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true&mode=dark">
+    <img align="center" width="400" height="330" src="https://spotify-github-profile.kittinanx.com/api/view?uid=j7env2evm6wiwy96zo8g0gkly&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true&mode=dark">
   </a>
 </p>
+
+
+
+
