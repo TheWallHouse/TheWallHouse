@@ -238,6 +238,10 @@ I'm a huge fan of "**clean code**" that doesn't make me cringe when I look at it
     <img src="https://img.shields.io/static/v1?label=&message=metasploit&color=white&style=for-the-badge&logo=metasploit"
       alt="metasploit"/>
   </a>
+  <a href="https://portswigger.net/burp/communitydownload" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=burpsuite&color=white&style=for-the-badge&logo=burpsuite&logoColor=%23FF6633"
+      alt="burpsuite"/>
+  </a>
   <a href="https://www.wireshark.org/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=wireshark&color=blue&style=for-the-badge&logo=wireshark&logoColor=white"
       alt="Wireshark"/>
@@ -365,15 +369,6 @@ I'm a huge fan of "**clean code**" that doesn't make me cringe when I look at it
 </div>
 
   ---
-<div align="center">
-  
-  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="30px">&nbsp;***Socials*** 
-
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=29&pause=1000&color=F7F7F7&background=11FF0F00&center=true&vCenter=true&width=449&height=62&lines=I'm+antisocial+%F0%9F%98%90" alt="Typing SVG" /></a>
-
-</div>
-
-  ---
 
 <div align="center">
   
@@ -387,6 +382,14 @@ I'm a huge fan of "**clean code**" that doesn't make me cringe when I look at it
   </a>
 </p>
 
+  ---
 
+<div align="center">
+  
+  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="30px">&nbsp;***Socials*** 
 
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=29&pause=1000&color=F7F7F7&background=11FF0F00&center=true&vCenter=true&width=449&height=62&lines=I'm+antisocial+%F0%9F%98%90" alt="Typing SVG" /></a>
 
+</div>
+
+  ---
