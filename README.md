@@ -274,6 +274,10 @@ I'm a huge fan of "**clean code**" that doesn't make me cringe when I look at it
     <img src="https://img.shields.io/static/v1?label=&message=kdeneon&color=%233DC08D&style=for-the-badge&logo=kdeneon&logoColor=white"
       alt="KDENeon"/>
   </a>
+  <a href="https://linuxmint.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=linuxmint&color=%2386BE43&style=for-the-badge&logo=linuxmint&logoColor=white"
+      alt="linuxmint"/>
+  </a>
 
   <h3 align="center"> 🛠️ Other tools  </h3>
 
@@ -353,13 +357,9 @@ I'm a huge fan of "**clean code**" that doesn't make me cringe when I look at it
     <img src="https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC"
       alt="Jellyfin"/>
   </a>
-  <a href="" target="_blank">
-    <img src=""
-      alt=""/>
-  </a>
-  <a href="" target="_blank">
-    <img src=""
-      alt=""/>
+  <a href="https://www.tp-link.com/us/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=tplink&color=%234ACBD6&style=for-the-badge&logo=tplink&logoColor=white"
+      alt="tplink"/>
   </a>
   <a href="" target="_blank">
     <img src=""
