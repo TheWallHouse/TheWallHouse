@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi there, I'm TheWallHa  
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
+  <img align="center" src="https://media.giphy.com/media/PS8myGd5ItNfBfitEp/giphy.gif" width="75"> 
 </h1>
 
   ---
@@ -372,7 +372,16 @@ I'm a huge fan of "**clean code**" that doesn't make me cringe when I look at it
 
 <div align="center">
   
-  <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHNvd3dqMHptOXBoazJ3dnhnbzFhZ2lnbHNxMnhqdTR3ZmU2ZzhubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/a7YBatpbXSzxbrSkvM/giphy.gif" width = 50px>&nbsp;***Hobbies***
+<img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29wcXc3YmJ3NjU4aXh5bGFiZGR1NHVrOW5qbWdrM2t2czhsb2R2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SVarZ2110sJO0cJYnu/giphy.gif" width="75px">&nbsp;***Hobbies***
+
+</div>
+
+<div align="left">
+   <details>
+     <summary> 
+       <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHNvd3dqMHptOXBoazJ3dnhnbzFhZ2lnbHNxMnhqdTR3ZmU2ZzhubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/a7YBatpbXSzxbrSkvM/giphy.gif" width = 50px> <b> Music </b>
+   </summary>
+    
 <p align="center">
   <!-- Recently Played by JeffreyCA -->
   <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=j7env2evm6wiwy96zo8g0gkly&unique={true|1|on|yes}" alt="Spotify Now Playing">
@@ -381,6 +390,16 @@ I'm a huge fan of "**clean code**" that doesn't make me cringe when I look at it
     <img align="center" width="400" height="330" src="https://spotify-github-profile.kittinanx.com/api/view?uid=j7env2evm6wiwy96zo8g0gkly&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true&mode=dark">
   </a>
 </p>
+   </details>
+
+<div align="left">
+   <details>
+     <summary> 
+       <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHd4eWtlemlhajF5ZzB3bWxnenI5dTd0Nnc1enUweW4za3ptYmR6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ykm9iIM3DROEWmR07P/giphy.gif" width = 50px> <b> Films & Series </b>
+     </summary>
+  </details>
+
+</div>
 
   ---
 
