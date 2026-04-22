@@ -1,0 +1,17 @@
+name: Update Letterboxd
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # cada 6 horas
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Letterboxd README
+        uses: microjumper/letterboxd-readme@main
+        with:
+          letterboxd-username: TheWallHouse
+          readme-path: README.md
