@@ -397,8 +397,7 @@ I'm a huge fan of "**clean code**" that doesn't make me cringe when I look at it
      <summary> 
        <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHd4eWtlemlhajF5ZzB3bWxnenI5dTd0Nnc1enUweW4za3ptYmR6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ykm9iIM3DROEWmR07P/giphy.gif" width = 50px> <b> Films & Series </b>
         <!-- LETTERBOXD:START -->
-
-<!-- LETTERBOXD:END -->
+        <!-- LETTERBOXD:END -->
      </summary>
   </details>
 
