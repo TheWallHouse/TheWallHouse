@@ -2,7 +2,7 @@ name: Update Letterboxd
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # cada 6 horas
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 
 jobs:
@@ -11,7 +11,8 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Letterboxd README
-        uses: microjumper/letterboxd-readme@main
+        uses: izayl/letterboxd-box@main
         with:
-          letterboxd-username: TheWallHouse
-          readme-path: README.md
+          username: TheWallHouse
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
