@@ -10,9 +10,24 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Letterboxd README
-        uses: izayl/letterboxd-box@main
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
         with:
-          username: TheWallHouse
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests feedparser
+
+      - name: Update README
+        run: python update_letterboxd.py
+
+      - name: Commit changes
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add README.md
+          git diff --staged --quiet || git commit -m "Update Letterboxd films"
+          git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
