@@ -399,7 +399,10 @@ I'm a huge fan of "**clean code**" that doesn't make me cringe when I look at it
      </summary>
 
 <!-- LETTERBOXD:START -->
-<p align="center"><i>Todavía no hay películas en el diario de Letterboxd.</i></p>
+<p align="center"><b>Últimas películas vistas</b> · <a href="https://letterboxd.com/TheWallHouse/">Letterboxd</a></p>
+<table align="center"><tr>
+<td align="center" valign="top" width="130"><a href="https://letterboxd.com/thewallhouse/film/spider-man-brand-new-day/"><img src="posters/spider-man-brand-new-day-2026.jpg" width="110" alt="Spider-Man: Brand New Day (2026)"></a><br><sub><b>Spider-Man: Brand New Day</b> (2026)</sub></td>
+</tr></table>
 <!-- LETTERBOXD:END -->
 
    </details>
