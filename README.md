@@ -387,7 +387,7 @@ I'm a huge fan of "**clean code**" that doesn't make me cringe when I look at it
   <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=j7env2evm6wiwy96zo8g0gkly&unique=true" alt="Spotify Now Playing">
   <!-- Spotify Live by Kittinan -->
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=j7env2evm6wiwy96zo8g0gkly&redirect=true">
-    <img align="center" width="460" src="https://spotify-github-profile.kittinanx.com/api/view?uid=j7env2evm6wiwy96zo8g0gkly&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true&mode=dark">
+    <img align="center" width="240" src="https://spotify-github-profile.kittinanx.com/api/view?uid=j7env2evm6wiwy96zo8g0gkly&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true&mode=dark">
   </a>
 </p>
    </details>
